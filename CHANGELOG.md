@@ -70,7 +70,7 @@ All significant updates and improvements
 
 - *(markdown)* Add copy-to-clipboard to markdown code blocks
 ・ by raythunder
-([ff726bf](https://github.com/gisto/gisto/commit/ff726bf72eb708ebd426f32d99063b452de6a5ef))
+([ceeaa4a](https://github.com/gisto/gisto/commit/ceeaa4a45a5318118e1ca2a5a9d42f7c27f2afcc))
 
 
 ### 🐛 Bug Fixes
@@ -232,6 +232,13 @@ All significant updates and improvements
 - *(changelog)* Improve changelog
 ・ by Sasha Khamkov
 ([c2f3d83](https://github.com/gisto/gisto/commit/c2f3d834934794f8cf9abb34b43bdef418f0c94b))
+
+
+### 🎨 Styling
+
+- *(snippets-list)* Improve snippet description text wrapping
+・ by raythunder
+([5c6f8cc](https://github.com/gisto/gisto/commit/5c6f8cc9897f9686eec35801cc073c597dbbaed5))
 
 
 ### 🔤 Grammar
